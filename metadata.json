@@ -1,0 +1,5 @@
+{
+  "name": "AutoSlide AI Video Creator",
+  "description": "A professional client-side tool to generate slideshow videos from images and audio with automatic timing and subtitle synchronization.",
+  "requestFramePermissions": []
+}
